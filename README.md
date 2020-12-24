@@ -8,4 +8,4 @@
 写真を様々な側から見て，隠された情報を導きましょう．
 
 ## Files
-- dist/out.png
+- dist/christmas.png

@@ -33,6 +33,6 @@ public class Generator
             }
         }
 
-        output.Save("./dist/out.png");
+        output.Save("./dist/christmas.png");
     }
 }

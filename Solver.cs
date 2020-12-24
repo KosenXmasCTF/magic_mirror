@@ -5,7 +5,7 @@ public class Solver
 {
     public void Solve()
     {
-        var image = new Bitmap("./dist/out.png");
+        var image = new Bitmap("./dist/christmas.png");
         var output = new Bitmap(image.Width, image.Height, PixelFormat.Format32bppArgb);
 
         for (var y = 0; y < image.Height; ++y)
